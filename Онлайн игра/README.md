@@ -2,7 +2,7 @@
 
 **Цель проекта:** изучить влияние характеристик игроков и их игровых персонажей на покупку внутриигровой валюты «райские лепестки», а также оценить активность игроков при совершении внутриигровых покупок
 
-[Online_Game_Analysis_DarkForest](https://github.com/Olga-Elkhova/Online_Game_Analysis/blob/main/Online_Game_Analysis_DarkForest.sql)
+[Online_Game_Analysis_DarkForest](https://github.com/Olga-Elkhova/Portfolio/blob/main/%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD%20%D0%B8%D0%B3%D1%80%D0%B0/Online_Game_Analysis_DarkForest.sql)
 
 ## Часть 1. Исследовательский анализ данных
 
